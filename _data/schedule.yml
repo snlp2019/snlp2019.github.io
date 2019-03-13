@@ -1,122 +1,121 @@
 - week: "01"
   dates:
-    Apr 15:
+    Apr 15: "No class"
     Apr 17:
       topic: Introduction
       links:
         slides: slides/introduction.pdf
         8up: slides/introduction-handout.pdf
       reading: HTF 3.2 & 3.4
-    Apr 19:
-      topic:
-      links:
+    Apr 19: "No class"
 - week: "02"
   dates:
-    Apr 22:
+    Apr 22: "No class"
     Apr 24:
-      topic: TBA
+      topic: Math preliminaries
       links:
     Apr 26:
-      topic: TBA
+      topic: Probability theory
       links:
 - week: "03"
   dates:
     Apr 29:
-      topic: TBA
-    May 01: " "
+      topic: 
+      topic: Information theory
+    May 01: "No class"
     May 03:
-      topic: TBA
+      topic: Machine Learning intro
 - week: "04"
   dates:
     May 06:
-      topic: TBA
+      topic: Classification I
     May 08:
-      topic: TBA
+      topic: lab - A1
     May 10:
-      topic: TBA
+      topic: Classification II
 - week: "05"
   dates:
     May 13:
-      topic: TBA
+      topic: ML evaluation
     May 15:
-      topic: TBA
+      topic: lab
     May 17:
-      topic: TBA
+      topic: ANN basics
 - week: "06"
   dates:
     May 20:
-      topic: TBA
+      topic: Sequence learning 
     May 22:
       topic: TBA
     May 24:
-      topic: TBA
+      topic: ANNs for sequences I
 - week: "07"
   dates:
     May 27:
-      topic: TBA
+      topic: ANNs for sequences II 
     May 29:
-      topic: TBA
+      topic: lab
     May 31:
-      topic: TBA
+      topic: Unsupervised learning I
 - week: "08"
   dates:
     Jun 03:
-      topic: TBA
+      topic: Unsuprevised learning II
     Jun 05:
-      topic: TBA
+      topic: lab
     Jun 07:
-      topic: TBA
+      topic: Summary
 - week: ""
   dates:
-    Jun 11: " "
-    Jun 13: " "
-    Jun 15: " "
+    Jun 11: "Sem. break"
+    Jun 13: "Sem. break"
+    Jun 15: "Sem. break"
 - week: "09"
   dates:
     Jun 17:
-      topic: TBA
+      topic: Language models I
     Jun 19:
-      topic: TBA
+      topic: lab
     Jun 21:
-      topic: TBA
+      topic: TBALanguage models II
 - week: "10"
   dates:
     Jun 24:
-      topic: TBA
+      topic: Tokenization / segmentation
     Jun 26:
-      topic: TBA
+      topic: lab
     Jun 28:
-      topic: TBA
+      topic: POS tagging
 - week: "11"
   dates:
     Jul 01:
-      topic: TBA
+      topic: Dense vector representations
     Jul 03:
-      topic: TBA
+      topic: lab
     Jul 05:
-      topic: TBA
+      topic: Dense vector representations
 - week: "12"
   dates:
     Jul 08:
-      topic: TBA
+      topic: Text classification
     Jul 10:
-      topic: TBA
+      topic: lab
     Jul 13:
-      topic: TBA
+      topic: Parsing I
 - week: "11"
   dates:
     Jul 15:
-      topic: TBA
+      topic: Parsing II
     Jul 17:
-      topic: TBA
+      topic: lab
     Jul 19:
-      topic: TBA
+      topic: Summary
 - week: "14"
   dates:
     Jul 22:
-      topic: TBA
+      topic: Exam
     Jul 24:
-      topic: TBA
+          topic: lab
     Jul 26:
-      topic: TBA
+      topic: Exam discussion
 - week: ""

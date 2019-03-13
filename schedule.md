@@ -41,11 +41,11 @@ for reference.
     <tr style="border-bottom: 1px solid #000;">
     <td style="text-align:left;"> {{ week.week }} </td>
     {% for date in week.dates %}
-            <td valign="top"> {{ date[0] }} <br/>
+            <td valign="top"> <span style="color:gray">{{date[0]}}</span><br/>
                 {% if date[1].topic %}
                     {{ date[1].topic }}&nbsp;
                 {% else %}
-                    <em style="color: red">No class</em>
+                    <em style="color: red">{{date[1]}}</em>
                 {% endif %}
                 {% if date[1].links %}
                     <br/>
