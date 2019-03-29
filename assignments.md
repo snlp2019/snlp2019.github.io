@@ -14,14 +14,7 @@ please contact the instructor.
 
 # Assignments
 
-- [Assignment 0](assignment0.pdf):
-- [Assignment 1](assignment1.pdf):
-- [Assignment 2](assignment2.pdf):
-- [Assignment 3](assignment3.pdf):
-- [Assignment 4](assignment4.pdf):
-- [Assignment 5](assignment5.pdf):
-- [Assignment 6](assignment6.pdf):
-- [Assignment 7](assignment7.pdf):
+- [Assignment 0](https://snlp2019.github.io/a0/): introduction, warm up
 
 # Assignment policy
 
