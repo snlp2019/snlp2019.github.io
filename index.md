@@ -40,7 +40,7 @@ We will make heavy use of [git](https://git-scm.com/) through
 
 To register for the course, and access to some of the course material,
 you need to complete an 
-[introductory assignment](__coming_soon__).
+[introductory assignment](https://snlp2019.github.io/a0/).
 Please complete this exercise before Monday 22th of April.
 
 ## Reading material
@@ -56,7 +56,6 @@ Please complete this exercise before Monday 22th of April.
    Data Mining, Inference, and Prediction_.
    Springer-Verlag, second edition. (**HTF**)
    [available online](http://web.stanford.edu/~hastie/ElemStatLearn/)
-
 
 ## Practical information
 
