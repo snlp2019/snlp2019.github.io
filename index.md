@@ -3,11 +3,6 @@ layout: default
 title: ""
 ---
 
-**This page is currently under construction**.
-You may want to check the
-[previous year's course page](https://snlp2018.github.io/)
-for more information and some of the course material.
-
 This is the course page
 for the summer semester 2019 edition of the course
 statistical natural language processing (NLP)

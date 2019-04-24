@@ -6,7 +6,7 @@
       links:
         slides: slides/introduction.pdf
         8up: slides/introduction-handout.pdf
-      reading: HTF 3.2 & 3.4
+      reading: None
     Apr 19: "No class"
 - week: "02"
   dates:
@@ -14,9 +14,13 @@
     Apr 24:
       topic: Math preliminaries
       links:
+        slides: slides/math-refresher.pdf
+        8up: slides/math-refresher-handout.pdf
+      reading: None
     Apr 26:
       topic: Probability theory
       links:
+      reading: None
 - week: "03"
   dates:
     Apr 29:
