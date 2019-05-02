@@ -26,3 +26,33 @@ There will be 7 graded assignemnts, of which,
 6 assignments (with best scores) will count toward your final grade.
 Assignments can be done in pairs.
 However, the **same pair can only work together on a signle assignment**.
+
+# Tutorials
+
+#### Lab session 01: Intro to data processing
+
+The goal of the first lab session is to introduce the tools which you can use for basic data processing in Python.
+We will use [Jupyter notebooks](https://jupyter.org/index.html), which allow you to work in a browser, mixing code and description. The tasks which will be presented during the class **are not obligatory and won't be graded** but they will help you a lot during this course and after it.
+
+By the end of the session you will be able to:
+* work with numerical values in Python;
+* store data in data frames;
+* apply exploratory data analysis;
+* visualize your data;
+* use basic classifiers.
+
+Please, be sure to have installed on your machine:
+* Python 3.7;
+* [Jupyter](https://jupyter.org/install) (for working with Jupyter notebooks);
+* [Numpy](https://www.numpy.org/) (for dealing with numerical values);
+* [pandas](https://pandas.pydata.org/index.html) (for using data frames);
+* [seaborn](https://seaborn.pydata.org/installing.html) and [matplotlib](https://matplotlib.org/users/installing.html) (for visualization of data);
+* [scikit-learn](https://scikit-learn.org/stable/install.html) (for machine learning).
+
+Everything should be installed before the lab session. If you have any problems with installation, please, send a message (subject = "SNLP: Lab session 01") to Maxim as soon as possible.
+
+# Intro to Python
+
+There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
+
+If you still have some questions, do not hesitate to contact Maxim (subject = "SNLP: Python intro"). You will get as much help as you need. Don't worry about it!
