@@ -20,55 +20,59 @@
     Apr 26:
       topic: Probability theory
       links:
+        slides: slides/probability-refresher.pdf
+        8up: slides/probability-refresher-handout.pdf
       reading: None
 - week: "03"
   dates:
     Apr 29:
-      topic: 
-      topic: Information theory
+      topic: Probability theory (contd.)
     May 01: "No class"
     May 03:
-      topic: Machine Learning intro
+      topic: Information theory
+      links:
+        slides: slides/information-theory.pdf
+        8up: slides/information-theory-handout.pdf
 - week: "04"
   dates:
     May 06:
-      topic: Classification I
+      topic: Machinel learning intro
     May 08:
       topic: lab - A1
     May 10:
-      topic: Classification II
+      topic: Classification I
 - week: "05"
   dates:
     May 13:
-      topic: ML evaluation
+      topic: Classification II
     May 15:
       topic: lab
     May 17:
-      topic: ANN basics
+      topic: ML evaluation
 - week: "06"
   dates:
     May 20:
-      topic: Sequence learning 
+      topic: ANN basics
     May 22:
       topic: lab
     May 24:
-      topic: ANNs for sequences I
+      topic: Sequence learning 
 - week: "07"
   dates:
     May 27:
-      topic: ANNs for sequences II 
+      topic: ANNs for sequences I
     May 29:
       topic: lab
     May 31:
-      topic: Unsupervised learning I
+      topic: ANNs for sequences II 
 - week: "08"
   dates:
     Jun 03:
-      topic: Unsuprevised learning II
+      topic: Unsupervised learning I
     Jun 05:
       topic: lab
     Jun 07:
-      topic: Summary
+      topic: Unsuprevised learning II
 - week: ""
   dates:
     Jun 11: "Sem. break"
