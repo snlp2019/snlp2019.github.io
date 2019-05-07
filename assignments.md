@@ -20,12 +20,12 @@ please contact the instructor.
 
 # Assignment policy
 
-Assignments constitue 60% of the grade you will receive from this
+Assignments constitute 60% of the grade you will receive from this
 course (40% comes from your exam score).
-There will be 7 graded assignemnts, of which,
+There will be 7 graded assignments, of which,
 6 assignments (with best scores) will count toward your final grade.
 Assignments can be done in pairs.
-However, the **same pair can only work together on a signle assignment**.
+However, the **same pair can only work together on a single assignment**.
 
 # Tutorials
 
@@ -54,5 +54,7 @@ Everything should be installed before the lab session. If you have any problems 
 # Intro to Python
 
 There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
+
+If you already have some experience with Python but would like to have some notes at hand to use for reference, Natalie generously shared a [Python cheat sheet](https://github.com/snlp2019/snlp2019/blob/master/material/cheatsheet_python.pdf) with everyone in the course.
 
 If you still have some questions, do not hesitate to contact Maxim (subject = "SNLP: Python intro"). You will get as much help as you need. Don't worry about it!
