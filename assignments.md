@@ -17,6 +17,7 @@ please contact the instructor.
 # Assignments
 
 - [Assignment 0](https://snlp2019.github.io/a0/): introduction, warm up
+- [Assignment 1](https://snlp2019.github.io/a1/): corpus collection
 
 # Assignment policy
 
