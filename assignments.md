@@ -52,6 +52,8 @@ Please, be sure to have installed on your machine:
 
 Everything should be installed before the lab session. If you have any problems with installation, please, send a message (subject = "SNLP: Lab session 01") to Maxim as soon as possible.
 
+[Notebook](https://snlp2019.github.io/slides/numpy_intro.ipynb)
+
 # Intro to Python
 
 There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
