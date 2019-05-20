@@ -37,10 +37,16 @@
   dates:
     May 06:
       topic: Machinel learning intro
+      links:
+        slides: slides/ml-intro.pdf
+        8up: slides/ml-intro-handout.pdf
     May 08:
       topic: lab - A1
     May 10:
       topic: Classification I
+      links:
+        slides: slides/classification.pdf
+        8up: slides/classification-handout.pdf
 - week: "05"
   dates:
     May 13:
