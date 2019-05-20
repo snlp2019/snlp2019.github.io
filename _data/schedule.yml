@@ -55,6 +55,9 @@
       topic: lab
     May 17:
       topic: ML evaluation
+      links:
+        slides: slides/ml-evaluation.pdf
+        8up: slides/ml-evaluation-handout.pdf
 - week: "06"
   dates:
     May 20:
