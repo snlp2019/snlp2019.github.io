@@ -54,7 +54,7 @@ Everything should be installed before the lab session. If you have any problems 
 
 [Notebook](https://snlp2019.github.io/slides/numpy_intro.ipynb)
 
-#### Intro to scikit-learn
+### Intro to scikit-learn
 [Notebook](https://github.com/snlp2019/snlp2019/blob/master/material/sl_into.ipynb)
 
 # Intro to Python
