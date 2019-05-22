@@ -54,6 +54,9 @@ Everything should be installed before the lab session. If you have any problems 
 
 [Notebook](https://snlp2019.github.io/slides/numpy_intro.ipynb)
 
+#### Intro to scikit-learn
+[Notebook](https://github.com/snlp2019/snlp2019/blob/master/material/sl_into.ipynb)
+
 # Intro to Python
 
 There won't be a separate session with a detailed introduction to Python basics. If you have little or no experience in Python, you could check a free [Python course](https://www.kaggle.com/learn/python) from Kaggle. It has a great combination of useful theoretical materials and practical tasks. It should be enough to get used to Python.
