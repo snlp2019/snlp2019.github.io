@@ -6,7 +6,7 @@ title: Schedule & Material
 Links to the course material will be provided in the schedule below
 after each class.
 You may want to have a look at the
-[previous edition of the course](http://coltekin.net/cagri/courses/snlp2017/)
+[previous edition of the course](http://coltekin.net/cagri/courses/snlp2018/)
 for reference.
 
 ## The course schedule

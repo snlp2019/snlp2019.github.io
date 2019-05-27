@@ -37,6 +37,7 @@
   dates:
     May 06:
       topic: Machinel learning intro
+      reading: HTF 3.2 & 3.4 
       links:
         slides: slides/ml-intro.pdf
         8up: slides/ml-intro-handout.pdf
@@ -44,6 +45,7 @@
       topic: lab - <a href="https://snlp2019.github.io/a1/">Assignment 1</a>
     May 10:
       topic: Classification I
+      reading: JM 6.6 (JM3 Ch.7), HTF 4.4 
       links:
         slides: slides/classification.pdf
         8up: slides/classification-handout.pdf
@@ -62,26 +64,31 @@
   dates:
     May 20:
       topic: ANN basics
+      links:
+        slides: slides/nn-intro.pdf
+        8up: slides/nn-intro-handout.pdf
+      reading: JM3 Ch.7, HTF Ch.11
     May 22:
       topic: lab - <a href="https://snlp2019.github.io/a2/">Assignment 2</a>
     May 24:
-      topic: Sequence learning 
+      topic: ANN basics
 - week: "07"
   dates:
     May 27:
-      topic: ANNs for sequences I
+      topic: Unsupervised learning
+      reading: HTF Ch.14
     May 29:
       topic: lab
     May 31:
-      topic: ANNs for sequences II 
+      topic: Unsuprevised learning
 - week: "08"
   dates:
     Jun 03:
-      topic: Unsupervised learning I
+      topic: Sequence learning
     Jun 05:
       topic: lab
     Jun 07:
-      topic: Unsuprevised learning II
+      topic: Sequence learning
 - week: ""
   dates:
     Jun 11: "Sem. break"
