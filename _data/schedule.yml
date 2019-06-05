@@ -36,13 +36,15 @@
 - week: "04"
   dates:
     May 06:
-      topic: Machinel learning intro
+      topic: Machine learning intro
       reading: HTF 3.2 & 3.4 
       links:
         slides: slides/ml-intro.pdf
         8up: slides/ml-intro-handout.pdf
     May 08:
       topic: lab - <a href="https://snlp2019.github.io/a1/">Assignment 1</a>
+      links:
+        recap slides (05.06): slides/a1_recap.pdf
     May 10:
       topic: Classification I
       reading: JM 6.6 (JM3 Ch.7), HTF 4.4 
