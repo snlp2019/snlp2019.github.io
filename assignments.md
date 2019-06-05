@@ -19,6 +19,7 @@ please contact the instructor.
 - [Assignment 0](https://snlp2019.github.io/a0/): introduction, warm up
 - [Assignment 1](https://snlp2019.github.io/a1/): corpus collection
 - [Assignment 2](https://snlp2019.github.io/a2/): classifying languages into language families
+- [Assignment 3](https://snlp2019.github.io/a3/): getting started with neural networks
 
 # Assignment policy
 
