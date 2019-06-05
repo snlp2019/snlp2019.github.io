@@ -76,6 +76,7 @@
   dates:
     May 27:
       topic: Unsupervised learning
+      links:
         slides: slides/unsupervised.pdf
         8up: slides/unsupervised-handout.pdf
       reading: HTF Ch.14
