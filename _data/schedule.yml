@@ -94,6 +94,9 @@
       topic: lab - <a href="https://snlp2019.github.io/a3/">Assignment 3</a>
     Jun 07:
       topic: Sequence learning
+      links:
+        slides: slides/sequence-learning.pdf
+        8up: slides/sequence-learning-handout.pdf
 - week: ""
   dates:
     Jun 11: "Sem. break"
@@ -102,11 +105,14 @@
 - week: "09"
   dates:
     Jun 17:
-      topic: Language models I
+      topic: Recurrent and convolutional networks
+      links:
+        slides: slides/deep-networks.pdf
+        8up: slides/deep-networks-handout.pdf
     Jun 19:
-      topic: lab
+      topic: lab - <a href="https://snlp2019.github.io/a4/">Assignment 4</a>
     Jun 21:
-      topic: Language models II
+      topic: Language models
 - week: "10"
   dates:
     Jun 24:
@@ -120,7 +126,7 @@
     Jul 01:
       topic: Dense vector representations
     Jul 03:
-      topic: lab
+      topic: lab - Assignment 5
     Jul 05:
       topic: Dense vector representations
 - week: "12"
@@ -136,15 +142,15 @@
     Jul 15:
       topic: Parsing II
     Jul 17:
-      topic: lab
+      topic: lab - Assignments 6 & 7
     Jul 19:
       topic: Summary
 - week: "14"
   dates:
     Jul 22:
-      topic: Exam
+      topic: Exam preparation/discussion
     Jul 24:
           topic: lab
     Jul 26:
-      topic: Exam discussion
+      topic: Exam
 - week: ""
