@@ -113,20 +113,29 @@
       topic: lab - <a href="https://snlp2019.github.io/a4/">Assignment 4</a>
     Jun 21:
       topic: Language models
+      links:
+        slides: slides/n-grams.pdf
+        8up: slides/n-grams-handout.pdf
 - week: "10"
   dates:
     Jun 24:
       topic: Tokenization / segmentation
+      links:
+        slides: slides/tokenization.pdf
+        8up: slides/tokenization-handout.pdf
     Jun 26:
       topic: lab
     Jun 28:
       topic: POS tagging
+      links:
+        slides: slides/pos-tagging.pdf
+        8up: slides/pos-tagging-handout.pdf
 - week: "11"
   dates:
     Jul 01:
       topic: Dense vector representations
     Jul 03:
-      topic: lab - Assignment 5
+      topic: lab - <a href="https://snlp2019.github.io/a5/">Assignment 5</a>
     Jul 05:
       topic: Dense vector representations
 - week: "12"
