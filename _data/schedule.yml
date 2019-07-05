@@ -134,6 +134,9 @@
   dates:
     Jul 01:
       topic: Dense vector representations
+      links:
+        slides: slides/vector-representations.pdf
+        8up: slides/vector-representations-handout.pdf
     Jul 03:
       topic: lab - <a href="https://snlp2019.github.io/a5/">Assignment 5</a>
     Jul 05:
