@@ -145,10 +145,16 @@
   dates:
     Jul 08:
       topic: Text classification
+      links:
+        slides: slides/text-classification.pdf
+        8up: slides/text-classification-handout.pdf
     Jul 10:
       topic: lab
     Jul 13:
       topic: Parsing I
+      links:
+        slides: slides/parsing.pdf
+        8up: slides/parsing-handout.pdf
 - week: "11"
   dates:
     Jul 15:
@@ -157,12 +163,15 @@
       topic: lab - <a href="https://snlp2019.github.io/a6/">Assignment 6</a>
     Jul 19:
       topic: Summary
+      links:
+        slides: slides/nlp-applications.pdf
+        8up: slides/nlp-applications-handout.pdf
 - week: "14"
   dates:
     Jul 22:
       topic: Exam preparation/discussion
     Jul 24:
-          topic: lab - Assignment 7
+      topic: lab - <a href="https://snlp2019.github.io/a7/">Assignment 7</a>
     Jul 26:
       topic: Exam
 - week: ""

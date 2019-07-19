@@ -28,7 +28,7 @@ please contact the instructor.
     German compound splitting with RNNs
 - [Assignment 6](https://snlp2019.github.io/a6/):
     Sequence-to-sequence networks
-- Assignment 7:
+- [Assignment 7](https://snlp2019.github.io/a7/):
     Text classification
 
 # Assignment policy
